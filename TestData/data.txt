@@ -1,0 +1,5 @@
+this is my first program with while loop.
+we are also going to learn Excel with for loop.
+we are able to write a java program to read this text file
+we are able to write a java program to read this text file
+lang=java
